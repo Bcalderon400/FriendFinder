@@ -1,8 +1,8 @@
 //JSON Array
 
 var friends = [{
-        name: "Tom Hardy",
-        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TomHardyJuly10_%28cropped%29.jpg/170px-TomHardyJuly10_%28cropped%29.jpg",
+        name: "Paul Rudd",
+        photo: "https://curiocity.com/calgary/wp-content/uploads/2019/06/paul-rudd-headed-to-netflix.jpg",
         scores: [5, 1, 4, 4, 5, 1, 2, 3, 2, 3]
     },
     {
