@@ -16,4 +16,4 @@ require("./app/routing/api-routes")(app);
 require("./app/routing/html-routes")(app);
 
 app.listen(port, () => console.log("Listening on port %s", port));
-// app.listen(process.env.PORT || 8080
+// app.listen(process.env.PORT || 3000);
