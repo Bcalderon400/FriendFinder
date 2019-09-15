@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+footer {
+    color: yellow;
+}
+
+.jumbotron {
+    background-image: url("./img/bump-collaboration-colleagues-1068523.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
