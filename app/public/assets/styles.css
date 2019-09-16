@@ -12,6 +12,10 @@ body {
     text-shadow: 2px 1px #000;
 }
 
+h1 {
+    text-align: center;
+}
+
 a {
     padding: 15px;
 }
