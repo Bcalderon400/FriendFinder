@@ -1,14 +1,16 @@
-/* body {
+body {
     background-color: black;
 }
 
-footer {
-    color: yellow;
-}
-
-.jumbotron {
-    background-image: url("./img/bump-collaboration-colleagues-1068523.jpg");
+.jumboHome {
+    background-image: url("./img/Artboard.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-} */
+    margin-top: 70px;
+    color: white;
+}
+
+a {
+    padding: 15px;
+}
